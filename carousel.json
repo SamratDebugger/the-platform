@@ -1,5 +1,23 @@
-{
-   "id":0,
-   "img":"/assets/images/hero-1.webp",
-   "heading":
-}
+[
+  {
+    "id": 0,
+    "img": "/assets/images/hero-1.webp",
+    "title": "Why Voice Control Devices Are Changing The Way we Live And Work",
+    "description": " Reflecting on a quiet reminder I didn't expect but truly needed-one of those moments that sticks and shifts your day",
+    "author": "Peter Parker"
+  },
+  {
+    "id": 1,
+    "img": "/assets/images/hero-2.webp",
+    "title": "How My Training Routine Changed After I Took Cycling Seriously",
+    "description": " Sharing a simple experience that helped me pause, reset, and see things a little differently.",
+    "author": "Tony Stark"
+  },
+  {
+    "id": 2,
+    "img": "/assets/images/hero-3.webp",
+    "title": "That Feeling of Being Airborne Is What Keeps Me Lac Again",
+    "description": "A quick reflection on something small that quietly stood out - one of those subtle moments that leaves a lasting impression.",
+    "author": "Clint"
+  }
+]
